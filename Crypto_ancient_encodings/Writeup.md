@@ -1,4 +1,5 @@
-In this challge, the message is encoded to base64 then convert it to hex as output. To solve this challenge, use tools or write a code to decode the cipher.
+In this challge, the message is encoded to base64 then convert it to hex as output.
+To solve this challenge, use tools or write a code to decode the cipher.
 
 ### Method 1:
 - Using CyberChef:
